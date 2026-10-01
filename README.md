@@ -198,7 +198,11 @@ that need raw frames need an ffmpeg → `v4l2loopback` bridge.
 
 The context-aware [Omarchy Touch Bar](https://github.com/Chronicuser21/touch-bar)
 (workspaces, browser tabs, sliders, dictation, …) was originally T2-only. A
-T1Bridge backend for it is on the way upstream; see the PR there.
+T1Bridge backend for it is in review upstream:
+[niraj-envision/touch-bar#10](https://github.com/niraj-envision/touch-bar/pull/10).
+Until it is merged, install from the `t1bridge` branch of
+[Samolokid/touch-bar](https://github.com/Samolokid/touch-bar/tree/t1bridge)
+and follow the "T1 MacBooks" section of its README.
 
 ## Suspend
 
